@@ -1,0 +1,47 @@
+﻿feature,KW_H,KW_p,is_important
+ch1_Delta Bandpower,13442.917904237285,0.0,True
+ch1_Theta Bandpower,21623.248412534595,0.0,True
+ch1_Alpha Bandpower,21172.296643652022,0.0,True
+ch1_Beta Bandpower,27415.203477310017,0.0,True
+ch1_Gamma Bandpower,26165.023320779204,0.0,True
+ch1_Relative Delta Bandpower,2897.0441464558244,0.0,True
+ch1_Relative Theta Bandpower,1451.2999422997236,0.0,True
+ch1_Relative Beta Bandpower,3453.2701699417084,0.0,True
+ch1_Entropy,1848.5428421936072,0.0,True
+ch1_Relative Gamma Bandpower,4211.109069542959,0.0,True
+ch1_Interquartile Range,19256.576539794507,0.0,True
+ch1_Median Absolute Deviation,19888.563341120316,0.0,True
+ch1_Variance,20328.16152383946,0.0,True
+ch1_Line Length,22881.309539008886,0.0,True
+ch1_Kurtosis,20837.717852687463,0.0,True
+ch1_Standard Deviation,20328.162795552325,0.0,True
+ch2_Relative Alpha Bandpower,1574.8774311356424,0.0,True
+ch2_Alpha Bandpower,19528.749866293743,0.0,True
+ch2_Beta Bandpower,27448.76784533076,0.0,True
+ch1_Hjorth Activity,20328.16152383946,0.0,True
+ch1_Hjorth Complexity,1953.8876691553742,0.0,True
+ch1_Hjorth Mobility,2503.059533338994,0.0,True
+ch2_Delta Bandpower,17536.49975372106,0.0,True
+ch2_Theta Bandpower,20639.203967425972,0.0,True
+ch2_Gamma Bandpower,29766.37449411489,0.0,True
+ch2_Line Length,27479.099550962448,0.0,True
+ch2_Hjorth Activity,24955.27416130528,0.0,True
+ch2_Standard Deviation,24955.274308538585,0.0,True
+ch2_Variance,24955.27416130528,0.0,True
+ch2_Median Absolute Deviation,24958.575053890916,0.0,True
+ch2_Interquartile Range,24451.638986301557,0.0,True
+ch2_Relative Gamma Bandpower,4722.212593061851,0.0,True
+ch2_Hjorth Mobility,2563.597843233496,0.0,True
+ch2_Kurtosis,24985.180017622188,0.0,True
+ch2_Hjorth Complexity,1109.4795059431344,1.2011199821696062e-241,True
+ch2_Relative Beta Bandpower,987.3194808382542,4.03923199879089e-215,True
+ch1_Relative Alpha Bandpower,919.548871519044,2.1013559761617656e-200,True
+ch2_Entropy,778.9816123277334,7.019272955776943e-170,True
+ch2_Relative Theta Bandpower,767.3408431559802,2.3662086583630373e-167,True
+ch2_Relative Delta Bandpower,612.0901135038663,1.2198899091538262e-133,True
+ch2_Skewness,144.50763921439648,4.174119210959569e-32,True
+ch1_Skewness,62.06926640868187,3.325294021029715e-14,True
+ch2_Median,47.8675031215022,4.0337015864137345e-11,True
+ch1_Median,40.08673004992975,1.9736819569189394e-09,True
+ch1_Mean,2.9238373413681984,0.23179111698976626,False
+ch2_Mean,0.6565990056842566,0.7201473012392949,False
